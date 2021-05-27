@@ -1,1 +1,1 @@
-# react-timer
+# React-app секундомер
